@@ -1,5 +1,5 @@
 ### Hi Friends 👋
-My name is Andrew you can call me Andrew, Drew or Drewskii. I have been coding since I was 13 building websites in HTML. From there I studied Computer Science in college and took on iOS development which I never seemed to have gotten away from.
+You can call me Andrew, Drew or Drewskii. I have been coding since I was 13 building websites in HTML. From there I studied Computer Science in college and took on iOS development which I never seemed to have gotten away from.
 
 - 🔭 Currently, I am working on my own iOS applications (VaultPass and ComicFans) that are now in the App Store.
   
