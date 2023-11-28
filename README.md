@@ -3,7 +3,7 @@ You can call me Andrew, Drew or Drewskii. I have been coding since I was buildin
 
 - 🔭 Currently, I am working on my own iOS applications (VaultPass and ComicFans) that are now in the App Store.
   
-- 🌱 I am expanding my knowledge by writing compilers, looking to contribute to open source projects, and purchasing the new Raspberry Pi 5 to play with.
+- 🌱 I am expanding my knowledge by discovering new skills and technologies, contributing to open source projects, and playing with the new Raspberry Pi 5.
   
 - ⚡ Fun fact: I love basketball and gaming on my non-coding free time.
 
