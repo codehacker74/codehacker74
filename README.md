@@ -1,7 +1,7 @@
 ### Hello Fellow Coders 👋
 You can call me Andrew, Drew or Drewskii. I have been coding since I was building websites in HTML at 13 years old. From there I studied Computer Science in college and took on iOS development which I never seemed to have gotten away from.
 
-- 🔭 Currently, I am working on my own iOS applications (VaultPass and ComicFans) that are now in the App Store.
+- 🔭 Currently, I am working on my own iOS applications (iKeys and ComicFans) that are now in the App Store.
   
 - 🌱 I am expanding my knowledge discovering new skills and technologies, contributing to open source projects, and playing with the new Raspberry Pi 5.
   
